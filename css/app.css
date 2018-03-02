@@ -1,0 +1,112 @@
+body{
+  font-family: monospace;
+  font-size: 14px;
+background-image: url("../img/fondo.jpg");
+
+}
+
+#contenedor1{
+  margin-bottom: 15px;
+  padding-top: 10px;
+  padding-left: 20px;
+}
+
+#contenedor2{
+    border-top: 1px solid white;
+    padding-top: 20px;
+}
+
+#titulo{
+  margin-right: 10px;
+  color: white;
+  border-right: 1px solid white;
+}
+
+.grid-container{
+padding-right: -20px;
+background-color: rgba(112, 146, 207,0.7);
+}
+
+.comentario{
+  margin: 15px;
+  padding: 20px;
+  border: 1px solid red;
+
+}
+
+h2 ,.titulo{
+  text-shadow:-2px -2px 1px #000;
+  font-weight: bold;
+}
+
+body  h3, h5{
+  font-family: monospace;
+  font-weight: bold;
+
+
+}
+
+#nav1 .nav-item:hover{
+  color: white;
+  background: rgba(112, 146, 207,0.7);
+}
+
+#nav1 .nav-item{
+  color: red;
+  font-weight: bold;
+}
+
+
+#nav2 .nav-item:hover{
+  color: white;
+  background: rgba(112, 146, 207,0.7);
+}
+
+#nav2 .nav-item{
+  color: red;
+  font-weight: bold;
+}
+
+#con2{
+  background-color: rgba(255, 255, 255,0.2);
+}
+
+
+#particulo1{
+  padding-left: 40px;
+  text-align: justify;
+}
+
+.letrazul{
+  color: red;
+}
+
+#padre1{
+  padding: 20px;
+  margin-bottom: 20px;
+}
+#hijo1{
+
+
+  padding: 20px;
+  background-color: rgba(255, 255, 255,0.7);
+  margin-left: 0 px;
+
+
+}
+
+#padre2{
+  padding: 20px;
+  /*background-color:  rgba(253, 222, 230, 0.9);*/
+  /*padding-top: 20px;
+  padding-right: 20px;
+  padding-left: 5px;*/
+  margin-bottom: 20px;
+
+}
+
+#hijo2, #hijo3{
+  background-color:  rgba(253, 222, 230, 0.9);
+    padding: 20px;
+    margin-bottom: 15px;
+}
